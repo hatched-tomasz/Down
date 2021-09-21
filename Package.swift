@@ -6,7 +6,7 @@ let package = Package(
     name: "Down",
     platforms: [
         .macOS("10.11"),
-        .iOS("9.0"),
+        .iOS("11.0"),
         .tvOS("9.0")
     ],
     products: [
